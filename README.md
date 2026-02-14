@@ -62,7 +62,7 @@ The script performs the following operations:
    Saves cryptographic outputs to the `./out` directory.
 
 ---
-Example Output
+##Example Output
 === SPHINCS+ Digital Signature System (pqcrypto) ===
 
 Original Message Verification Result: ✔ Valid  
