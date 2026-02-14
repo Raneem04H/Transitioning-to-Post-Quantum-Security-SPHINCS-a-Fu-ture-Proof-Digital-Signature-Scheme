@@ -62,6 +62,17 @@ The script performs the following operations:
    Saves cryptographic outputs to the `./out` directory.
 
 ---
+Example Output
+=== SPHINCS+ Digital Signature System (pqcrypto) ===
+
+Original Message Verification Result: ✔ Valid  
+Modified Message Verification Result: ✘ Invalid  
+
+Public Key (hex): ...  
+Private Key (hex): ...  
+Signature length: XXXX bytes 
+
+---
 
 ## 📊 Evaluation Results
 
